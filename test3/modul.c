@@ -3,5 +3,5 @@
  *  Zestaw wazniejszych stalych
  */
 
-const double PI = 3.141593;
-const double E  = 2.718282;
+const extern double PI = 3.141593;
+const extern double E  = 2.718282;
