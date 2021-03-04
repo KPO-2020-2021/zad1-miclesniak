@@ -1,7 +1,5 @@
-#include <stdio.h>
+#include <stdio.h> 
 #include <math.h>
-
-
 struct TrojmianKw {
   double  a;
   double  b;
